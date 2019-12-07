@@ -1,0 +1,1 @@
+<h1>La edad es:{{$edad}}</h1>
